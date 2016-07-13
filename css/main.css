@@ -1,0 +1,40 @@
+
+.container3 {
+    background-image: url("../images/coworking.jpg");
+    background-position: center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+div.meet {
+    border: 1px solid;
+    width: 55%;
+    float: right;
+    height: 375px;
+    margin-right: 20px;
+    margin-left: 120px;
+    margin-top: 10px;
+    background-color: white;
+    opacity: 0.8;
+    box-shadow: 1px 1px 3px;
+    border-color: silver;
+
+}
+.yellowbutton {
+    text-align: center;
+    background-color: #f9e42e ;
+    font-size: 14px;
+    display: block;
+    border: 0px solid;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px yellow;
+    width: 250px;
+    height: 45px;
+
+
+
+}
+.meeth2 {
+    color: black;
+    text-align: center;
+}
